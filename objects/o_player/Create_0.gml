@@ -1,6 +1,8 @@
+initialize_movement_entity(.5, 1, o_solid);
 image_speed = 0;
 global.player_health = 4;
-speed_ = 2;
+acceleration_ = 2;
+max_speed_ = 1.5;
 direction_facing_ = dir.right;
 
 enum player {

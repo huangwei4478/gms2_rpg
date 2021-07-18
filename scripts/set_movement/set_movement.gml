@@ -1,4 +1,4 @@
-///@param direction
-///@param speed
-direction_ = argument0;
-speed_ = argument1;
+function set_movement(direction, speed) {
+	direction_ = direction;	
+	speed_ = speed;
+}
