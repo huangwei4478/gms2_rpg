@@ -2,12 +2,14 @@ image_speed = 0;
 if keyboard_check(vk_right) and not place_meeting(x + 4, y, o_solid) {
 	sprite_index = s_player_run_right;
 	image_speed = 0.6;
+	image_xscale = 1;
 	x += 4;
 }
 
 if keyboard_check(vk_left) and not place_meeting(x - 4, y, o_solid) {
 	sprite_index = s_player_run_right;
 	image_speed = 0.6;
+	image_xscale = -1;
 	x -= 4;	
 }
 
