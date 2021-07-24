@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "World Sprites",
+    "path": "folders/Sprites/World Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_dirtpath",
