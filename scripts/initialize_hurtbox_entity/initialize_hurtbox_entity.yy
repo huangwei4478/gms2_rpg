@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Enemy Scripts",
-    "path": "folders/Scripts/Enemy Scripts.yy",
+    "name": "Hurtbox Scripts",
+    "path": "folders/Scripts/Hurtbox Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "porcupine_attack",
+  "name": "initialize_hurtbox_entity",
   "tags": [],
   "resourceType": "GMScript",
 }
