@@ -15,3 +15,5 @@ if speed_ == 0 {
 	alarm[timer_counter_] = random_range(1, 3) * one_second_in_game();
 	state_ = porcupine.idle;
 }
+
+porcupine_attack();
