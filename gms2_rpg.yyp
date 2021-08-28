@@ -29,6 +29,7 @@
     {"id":{"name":"s_sword_hitbox","path":"sprites/s_sword_hitbox/s_sword_hitbox.yy",},"order":0,},
     {"id":{"name":"s_bomb_hitbox","path":"sprites/s_bomb_hitbox/s_bomb_hitbox.yy",},"order":1,},
     {"id":{"name":"s_player_roll_up","path":"sprites/s_player_roll_up/s_player_roll_up.yy",},"order":8,},
+    {"id":{"name":"o_input","path":"objects/o_input/o_input.yy",},"order":7,},
     {"id":{"name":"t_dirtwall","path":"tilesets/t_dirtwall/t_dirtwall.yy",},"order":0,},
     {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},"order":1,},
     {"id":{"name":"s_dirtpath","path":"sprites/s_dirtpath/s_dirtpath.yy",},"order":0,},
