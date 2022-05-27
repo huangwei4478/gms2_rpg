@@ -113,8 +113,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player Sprites",
+    "path": "folders/Sprites/Player Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "s_player_run_down",
