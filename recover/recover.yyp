@@ -3,6 +3,7 @@
     {"id":{"name":"s_player_run_down","path":"sprites/s_player_run_down/s_player_run_down.yy",},"order":0,},
     {"id":{"name":"s_grass","path":"sprites/s_grass/s_grass.yy",},"order":4,},
     {"id":{"name":"set_movement","path":"scripts/set_movement/set_movement.yy",},"order":4,},
+    {"id":{"name":"draw_self_flash","path":"scripts/draw_self_flash/draw_self_flash.yy",},"order":11,},
     {"id":{"name":"o_porcupine","path":"objects/o_porcupine/o_porcupine.yy",},"order":1,},
     {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":8,},
     {"id":{"name":"s_sword_hitbox","path":"sprites/s_sword_hitbox/s_sword_hitbox.yy",},"order":2,},
