@@ -1,2 +1,2 @@
-/// @description Global + Init
+room_goto_next();
 
