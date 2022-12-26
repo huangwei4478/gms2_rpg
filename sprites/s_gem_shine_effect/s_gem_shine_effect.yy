@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMSprite",
+  "resourceVersion": "1.0",
+  "name": "s_gem_shine_effect",
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -14,6 +17,7 @@
   "HTile": false,
   "VTile": false,
   "For3D": false,
+  "DynamicTexturePage": false,
   "width": 32,
   "height": 32,
   "textureGroupId": {
@@ -24,18 +28,14 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e4f891a7-33b7-4208-910e-db3a268c9ac5","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e4f891a7-33b7-4208-910e-db3a268c9ac5","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"LayerId":{"name":"8b24d55d-8b27-4442-b878-066604c2b783","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_gem_shine_effect","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","name":"e4f891a7-33b7-4208-910e-db3a268c9ac5","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"bd03881b-0242-4cd6-a4ea-10971abef192","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"bd03881b-0242-4cd6-a4ea-10971abef192","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"LayerId":{"name":"8b24d55d-8b27-4442-b878-066604c2b783","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_gem_shine_effect","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","name":"bd03881b-0242-4cd6-a4ea-10971abef192","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"d1839419-0e29-48d2-984d-aaaebdcef00c","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d1839419-0e29-48d2-984d-aaaebdcef00c","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"LayerId":{"name":"8b24d55d-8b27-4442-b878-066604c2b783","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_gem_shine_effect","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","name":"d1839419-0e29-48d2-984d-aaaebdcef00c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4f891a7-33b7-4208-910e-db3a268c9ac5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bd03881b-0242-4cd6-a4ea-10971abef192",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d1839419-0e29-48d2-984d-aaaebdcef00c",},
   ],
   "sequence": {
-    "spriteId": {"name":"s_gem_shine_effect","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},
+    "resourceType": "GMSequence",
+    "resourceVersion": "1.4",
+    "name": "s_gem_shine_effect",
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -46,11 +46,11 @@
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
-      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+      {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"9b7c2385-173b-46d4-a3a0-102bf2d34c9a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e4f891a7-33b7-4208-910e-db3a268c9ac5","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"f34cea64-6986-429b-b4aa-b246d7f8165f","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bd03881b-0242-4cd6-a4ea-10971abef192","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
             {"id":"d9c347d2-0b29-4633-9a74-1618ffa0596e","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d1839419-0e29-48d2-984d-aaaebdcef00c","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,
     "lockOrigin": false,
@@ -66,22 +66,13 @@
     "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"s_gem_shine_effect","path":"sprites/s_gem_shine_effect/s_gem_shine_effect.yy",},
-    "resourceVersion": "1.4",
-    "name": "s_gem_shine_effect",
-    "tags": [],
-    "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8b24d55d-8b27-4442-b878-066604c2b783","tags":[],"resourceType":"GMImageLayer",},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8b24d55d-8b27-4442-b878-066604c2b783","visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default",},
   ],
   "nineSlice": null,
   "parent": {
     "name": "Effect Sprites",
     "path": "folders/Sprites/Effect Sprites.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "s_gem_shine_effect",
-  "tags": [],
-  "resourceType": "GMSprite",
 }
