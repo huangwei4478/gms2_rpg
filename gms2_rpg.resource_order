@@ -38,6 +38,7 @@
     {"name":"t_dirtpath","order":1,"path":"tilesets/t_dirtpath/t_dirtpath.yy",},
     {"name":"s_porcupine_hitbox","order":2,"path":"sprites/s_porcupine_hitbox/s_porcupine_hitbox.yy",},
     {"name":"s_heart","order":1,"path":"sprites/s_heart/s_heart.yy",},
+    {"name":"draw_self_flash","order":1,"path":"scripts/draw_self_flash/draw_self_flash.yy",},
     {"name":"animation_hit_frame","order":2,"path":"scripts/animation_hit_frame/animation_hit_frame.yy",},
     {"name":"o_animation_effects","order":8,"path":"objects/o_animation_effects/o_animation_effects.yy",},
     {"name":"s_player_roll_down","order":6,"path":"sprites/s_player_roll_down/s_player_roll_down.yy",},

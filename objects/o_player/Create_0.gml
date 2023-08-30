@@ -14,7 +14,11 @@ roll_speed_ = 3;
 enum player {
 	move,
 	sword,
-	evade
+	evade,
+	bomb,
+	bow,
+	found_item,
+	hit
 }
 
 enum dir {
